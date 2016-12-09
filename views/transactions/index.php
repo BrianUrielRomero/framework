@@ -48,5 +48,5 @@
 	<?php endforeach; ?>
 
 	</table>
-	<a href="<?php echo APP_URL; ?>/transactions/add" ><button  type="button" class="btn btn-primary" >Crear Transacciones</button></a>
+	<a href="<?php echo APP_URL; ?>/transactions/add" ><button  type="button" class="btn btn-primary" >Crear Transaccio</button></a>
 </div>
